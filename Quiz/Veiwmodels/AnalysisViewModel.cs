@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quiz.Veiwmodels
 {
-    class AnalysisViewModel
+    public class AnalysisViewModel
     {
     }
 }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\
+C:\Users\Daniel Wilkes\Documents\Visual Studio 2017\Projects\Quiz\Quiz\obj\Debug\
 Quiz
 none
 false
 DEBUG;TRACE
-C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\App.xaml
-3-1525519692
+C:\Users\Daniel Wilkes\Documents\Visual Studio 2017\Projects\Quiz\Quiz\App.xaml
+4934088230
 
-18-1145044604
+20-1315157841
 13738642453
-MainWindow.xaml;Veiws\FinishedView.xaml;Veiws\QuizView.xaml;
+MainWindow.xaml;Veiws\AnalysisView.xaml;Veiws\FinishedView.xaml;Veiws\QuizView.xaml;
 
-False
+True
 

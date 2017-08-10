@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Daniel Wilkes\Documents\Visual Studio 2017\Projects\Quiz\Quiz\App.xaml
-3-1525519692
+4934088230
 
-141189166417
+161019053180
 13738642453
-MainWindow.xaml;Veiws\FinishedView.xaml;Veiws\QuizView.xaml;
+MainWindow.xaml;Veiws\AnalysisView.xaml;Veiws\FinishedView.xaml;Veiws\QuizView.xaml;
 
-False
+True
 
