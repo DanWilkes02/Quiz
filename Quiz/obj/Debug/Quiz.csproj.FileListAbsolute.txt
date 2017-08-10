@@ -12,7 +12,6 @@ C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Quiz.exe
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\FinishedView.g.cs
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\QuizView.g.cs
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\FinishedView.baml
