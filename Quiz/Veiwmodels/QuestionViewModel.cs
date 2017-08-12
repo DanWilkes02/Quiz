@@ -16,7 +16,7 @@ namespace Quiz.Veiwmodels
 
         public ObservableCollection<QuestionModel> Questions;
 
-        public ScoreModel ScoreModel { get; private set; }
+        private ApplicationViewModel _applicationView;
 
         private int _currentQuestionIndex;
 
@@ -25,19 +25,10 @@ namespace Quiz.Veiwmodels
             get { return _currentQuestion; }
             private set { OnPropertyChanged(ref _currentQuestion, value); }
         }
-
-
-
-        private BaseViewModel _currentView;
-        public BaseViewModel CurrentView
-        {
-            get { return _currentView; }
-            set { OnPropertyChanged(ref _currentView, value); }
-        }
-     
+ 
         
 
-        public QuestionViewModel()
+        public QuestionViewModel(ScoreModel scoreModel, ApplicationViewModel applicationView)
         {
 
             //Initialises a new ObservableCollection of QuestionModels
@@ -47,13 +38,14 @@ namespace Quiz.Veiwmodels
             _currentQuestionIndex = 0;
             CurrentQuestion = Questions[0];
 
-            ScoreModel = new ScoreModel();
-                        
+            ScoreModel = scoreModel;
+
+            _applicationView = applicationView;
 
             //Initialise commands
             AnswerCommand = new RelayCommand(CheckAnswer);
 
-            CurrentView = this;
+          
 
             
         }
@@ -72,7 +64,8 @@ namespace Quiz.Veiwmodels
                 CurrentQuestion = Questions[_currentQuestionIndex];
             else
                 //Start end veiw here
-                CurrentView = new FinishedViewModel(ScoreModel);
+                _applicationView.ChangeView("FinishedView");
+              
 
         }
 

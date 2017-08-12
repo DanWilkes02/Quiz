@@ -60,6 +60,7 @@
     <Compile Include="Veiwmodels\AnalysisViewModel.cs" />
     <Compile Include="Veiwmodels\BaseViewModel.cs" />
     <Compile Include="Veiwmodels\FinishedViewModel.cs" />
+    <Compile Include="Veiwmodels\ApplicationViewModel.cs" />
     <Compile Include="Veiwmodels\QuestionViewModel.cs" />
     <Compile Include="Veiws\AnalysisView.xaml.cs">
       <DependentUpon>AnalysisView.xaml</DependentUpon>

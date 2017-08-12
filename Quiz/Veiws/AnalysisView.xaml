@@ -6,7 +6,8 @@
              xmlns:local="clr-namespace:Quiz.Veiws"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
-    <Grid>
-            
+    <Grid Background="White">
+        
+        <TextBlock>Analysis</TextBlock>
     </Grid>
 </UserControl>

@@ -9,7 +9,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Window.DataContext>
-        <veiwmodels:QuestionViewModel/>
+        <veiwmodels:ApplicationViewModel/>
     </Window.DataContext>
     <Window.Resources>
         <DataTemplate DataType="{x:Type veiwmodels:QuestionViewModel}">
@@ -17,6 +17,9 @@
         </DataTemplate>
         <DataTemplate DataType="{x:Type veiwmodels:FinishedViewModel}">
             <veiws:FinishedVeiw/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type veiwmodels:AnalysisViewModel}">
+            <veiws:AnalysisView/>
         </DataTemplate>
     </Window.Resources>
 

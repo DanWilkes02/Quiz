@@ -16,3 +16,6 @@ C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\QuizView.g.cs
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\FinishedView.baml
 C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\QuizView.baml
+C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\AnalysisView.g.cs
+C:\Users\Daniel Wilkes\documents\visual studio 2017\Projects\Quiz\Quiz\obj\Debug\Veiws\AnalysisView.baml
+C:\Users\Daniel Wilkes\Documents\Visual Studio 2017\Projects\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
